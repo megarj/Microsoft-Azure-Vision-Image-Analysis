@@ -52,11 +52,19 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
    ```
 
 3. Crie e ative um ambiente virtual Python:
+   
+    ### Windows:
+    ```bash
+    python -m venv escolha-nome-ambiente
+    escolha-nome-ambiente\Scripts\activate
+    ```
+    ### Linux:
+    ```bash
+    python -m venv escolha-nome-ambiente
+    source escolha-nome-ambiente/bin/activate
+    ```
 
-   ```bash
-   python -m venv <nome-ambiente>
-   source nome-ambiente/bin/activate
-   ```
+Essas instruções criam e ativam um ambiente virtual Python no respectivo sistema operacional. Certifique-se de substituir `<nome-ambiente>` pelo nome desejado para o seu ambiente virtual.
 
 4. Instale as dependências necessárias:
 
