@@ -1,0 +1,111 @@
+{
+    "modelVersion": "2023-10-01",
+    "denseCaptionsResult": {
+        "values": [
+            {
+                "text": "a woman holding a phone while shopping in a grocery store",
+                "confidence": 0.7629294991493225,
+                "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1024,
+                    "h": 682
+                }
+            },
+            {
+                "text": "a woman looking at a phone",
+                "confidence": 0.74336838722229,
+                "boundingBox": {
+                    "x": 291,
+                    "y": 74,
+                    "w": 406,
+                    "h": 593
+                }
+            },
+            {
+                "text": "a shopping basket full of food",
+                "confidence": 0.7392871379852295,
+                "boundingBox": {
+                    "x": 594,
+                    "y": 503,
+                    "w": 313,
+                    "h": 174
+                }
+            },
+            {
+                "text": "a woman holding a phone while shopping in a grocery store",
+                "confidence": 0.7391956448554993,
+                "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1003,
+                    "h": 665
+                }
+            },
+            {
+                "text": "a blurry shot of a store shelf",
+                "confidence": 0.6598802208900452,
+                "boundingBox": {
+                    "x": 2,
+                    "y": 130,
+                    "w": 309,
+                    "h": 544
+                }
+            },
+            {
+                "text": "a close-up of a shelf with bottles",
+                "confidence": 0.7081050276756287,
+                "boundingBox": {
+                    "x": 786,
+                    "y": 0,
+                    "w": 223,
+                    "h": 665
+                }
+            },
+            {
+                "text": "a woman looking down to side",
+                "confidence": 0.6623601913452148,
+                "boundingBox": {
+                    "x": 363,
+                    "y": 87,
+                    "w": 215,
+                    "h": 254
+                }
+            },
+            {
+                "text": "a woman holding a phone",
+                "confidence": 0.7533866763114929,
+                "boundingBox": {
+                    "x": 363,
+                    "y": 283,
+                    "w": 292,
+                    "h": 390
+                }
+            },
+            {
+                "text": "a woman looking down at something",
+                "confidence": 0.7356793880462646,
+                "boundingBox": {
+                    "x": 320,
+                    "y": 85,
+                    "w": 303,
+                    "h": 380
+                }
+            },
+            {
+                "text": "a blurry shot of a store shelf",
+                "confidence": 0.6555073261260986,
+                "boundingBox": {
+                    "x": 0,
+                    "y": 237,
+                    "w": 280,
+                    "h": 302
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "width": 1024,
+        "height": 682
+    }
+}

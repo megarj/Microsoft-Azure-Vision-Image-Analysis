@@ -1,0 +1,111 @@
+{
+    "modelVersion": "2023-10-01",
+    "denseCaptionsResult": {
+        "values": [
+            {
+                "text": "a woman in a grocery store",
+                "confidence": 0.8059782385826111,
+                "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1024,
+                    "h": 682
+                }
+            },
+            {
+                "text": "a woman in a blue shirt",
+                "confidence": 0.8078430891036987,
+                "boundingBox": {
+                    "x": 282,
+                    "y": 142,
+                    "w": 303,
+                    "h": 416
+                }
+            },
+            {
+                "text": "a shopping cart full of vegetables",
+                "confidence": 0.7764388918876648,
+                "boundingBox": {
+                    "x": 157,
+                    "y": 470,
+                    "w": 463,
+                    "h": 207
+                }
+            },
+            {
+                "text": "a shelf with bottles of food",
+                "confidence": 0.5978653430938721,
+                "boundingBox": {
+                    "x": 557,
+                    "y": 0,
+                    "w": 450,
+                    "h": 665
+                }
+            },
+            {
+                "text": "a close-up of a woman",
+                "confidence": 0.9018575549125671,
+                "boundingBox": {
+                    "x": 335,
+                    "y": 145,
+                    "w": 154,
+                    "h": 163
+                }
+            },
+            {
+                "text": "a blurry image of a sign",
+                "confidence": 0.7732943296432495,
+                "boundingBox": {
+                    "x": 265,
+                    "y": 20,
+                    "w": 111,
+                    "h": 118
+                }
+            },
+            {
+                "text": "a watermelon in a shopping cart",
+                "confidence": 0.8585302829742432,
+                "boundingBox": {
+                    "x": 170,
+                    "y": 570,
+                    "w": 120,
+                    "h": 107
+                }
+            },
+            {
+                "text": "a basket full of vegetables",
+                "confidence": 0.720257580280304,
+                "boundingBox": {
+                    "x": 459,
+                    "y": 551,
+                    "w": 117,
+                    "h": 127
+                }
+            },
+            {
+                "text": "a woman in a grocery store",
+                "confidence": 0.8034349679946899,
+                "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 998,
+                    "h": 665
+                }
+            },
+            {
+                "text": "a close up of a vegetable",
+                "confidence": 0.7347301840782166,
+                "boundingBox": {
+                    "x": 360,
+                    "y": 566,
+                    "w": 102,
+                    "h": 98
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "width": 1024,
+        "height": 682
+    }
+}
