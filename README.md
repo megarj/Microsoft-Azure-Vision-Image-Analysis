@@ -1,6 +1,5 @@
 <img src="https://hermes.dio.me/courses/badge/d048dd15-f905-4563-b6c1-a714ffb34118.png" alt="Trabalhando com Visão Computacional" width="200">
 
-🤞🤙🤝🙏💅
 ---
 # Azure Vision Image Analysis
 
