@@ -124,8 +124,6 @@ Segue a lista completa abaixo para auxiliar no uso das demais funcionalidades
 |---|---|---|
 | <img src="inputs/analysis_store-camera-1.jpg" alt="analysis_store-camera-1" width="150"/>| <img src="inputs/ocr_advert.jpg" alt="ocr_advert" width="150"/> | <img src="inputs/people_store-camera-2.jpg" alt="people_store-camera-2" width="150"/> |
 
+## Licença
 
-
----
-
-Esse README.md fornece uma visão geral detalhada do projeto, explicando como configurar, executar e utilizar o script de análise de imagem com o Azure Vision. Ele também fornece informações sobre os requisitos, instalação, configuração, funcionalidades e exemplos de imagens para ilustrar o funcionamento do script.
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
