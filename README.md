@@ -60,6 +60,7 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
 
 
 ⚠️ **Atenção**: Nunca exponha sua key ou endpoint diretamente no código ⚠️
+
 ⚠️ **Atenção**: Se estiver com o terminal aberto terá de reiniciá-lo para que entenda as novas variáveis de ambiente ⚠️
 
 
