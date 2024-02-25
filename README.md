@@ -5,6 +5,10 @@
 
 Este script Python exemplifica a utilização do serviço Azure Vision para analisar imagens em uma pasta de entrada e salvar os resultados em formato JSON em uma pasta de saída.
 
+⚠️ **Atenção**: Ao final dos seus testes não  se esqueça de apagar os recursos ⚠️
+
+[🧹Não sabe como apagar? 👉 Veja aqui](https://learn.microsoft.com/pt-pt/azure/ai-services/multi-service-resource?pivots=azportal&tabs=windows#clean-up-resources)
+
 ## 🔗 Links de Referência
 
 [📝Documentação Azure AI Vision](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/)
@@ -26,8 +30,8 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
 
 - Python 3.x
 - Conta no Azure com o serviço Vision habilitado  [Não tem? 👉 Crie aqui sua conta Gratuita](https://azure.microsoft.com/pt-pt/free/)
-- Chave de API (chave primária ou secundária)
-- Endpoint do serviço Azure Vision
+- Chave de API (chave primária ou secundária)[Não tem? 👉 Veja aqui](https://learn.microsoft.com/pt-pt/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?tabs=visual-studio%2Cwindows&pivots=programming-language-python)
+- Endpoint do serviço Azure Vision [Não tem? 👉 Veja aqui](https://learn.microsoft.com/pt-pt/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?tabs=visual-studio%2Cwindows&pivots=programming-language-python)
 
 ## Instalação e Configuração
 
