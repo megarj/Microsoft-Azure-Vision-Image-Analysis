@@ -39,40 +39,7 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
 
 ## Instalação e Configuração
 
-1. Clone este repositório para o seu ambiente local:
-
-   ```bash
-   git clone https://github.com/megarj/Microsoft-Azure-Vision-Image-Analysis.git
-   ```
-
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd Microsoft-Azure-Vision-Image-Analysis
-   ```
-
-3. Crie e ative um ambiente virtual Python:
-   
-    ### Windows:
-    ```bash
-    python -m venv escolha-nome-ambiente
-    escolha-nome-ambiente\Scripts\activate
-    ```
-    ### Linux:
-    ```bash
-    python -m venv escolha-nome-ambiente
-    source escolha-nome-ambiente/bin/activate
-    ```
-
-Essas instruções criam e ativam um ambiente virtual Python no respectivo sistema operacional. Certifique-se de substituir `<nome-ambiente>` pelo nome desejado para o seu ambiente virtual.
-
-4. Instale as dependências necessárias:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. Configure as variáveis de ambiente com o endpoint e a chave da API do Azure Vision:
+1. Configure as variáveis de ambiente com o endpoint e a chave da API do Azure Vision:
    
    Para usuários do Linux:
 
@@ -93,6 +60,43 @@ Essas instruções criam e ativam um ambiente virtual Python no respectivo siste
 
 
 ⚠️ **Atenção**: Nunca exponha sua key ou endpoint diretamente no código ⚠️
+⚠️ **Atenção**: Se estiver com o terminal aberto terá de reiniciá-lo para que entenda as novas variáveis de ambiente ⚠️
+
+
+2. Clone este repositório para o seu ambiente local:
+
+   ```bash
+   git clone https://github.com/megarj/Microsoft-Azure-Vision-Image-Analysis.git
+   ```
+
+3. Navegue até o diretório do projeto:
+
+   ```bash
+   cd Microsoft-Azure-Vision-Image-Analysis
+   ```
+
+4. Crie e ative um ambiente virtual Python:
+   
+    ### Windows:
+    ```bash
+    python -m venv escolha-nome-ambiente
+    escolha-nome-ambiente\Scripts\activate
+    ```
+    ### Linux:
+    ```bash
+    python -m venv escolha-nome-ambiente
+    source escolha-nome-ambiente/bin/activate
+    ```
+
+Essas instruções criam e ativam um ambiente virtual Python no respectivo sistema operacional. Certifique-se de substituir `<nome-ambiente>` pelo nome desejado para o seu ambiente virtual.
+
+5. Instale as dependências necessárias:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
 
 
 ## Como Usar
