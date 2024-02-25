@@ -89,7 +89,7 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
     source escolha-nome-ambiente/bin/activate
     ```
 
-Essas instruções criam e ativam um ambiente virtual Python no respectivo sistema operacional. Certifique-se de substituir `<nome-ambiente>` pelo nome desejado para o seu ambiente virtual.
+Essas instruções criam e ativam um ambiente virtual Python no respectivo sistema operacional. Certifique-se de substituir `escolha-nome-ambiente` pelo nome desejado para o seu ambiente virtual.
 
 5. Instale as dependências necessárias:
 
