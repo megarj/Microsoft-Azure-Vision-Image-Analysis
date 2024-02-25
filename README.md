@@ -25,6 +25,7 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
 3. [Como Usar](#como-usar)
 4. [Funcionalidades](#funcionalidades)
 5. [Exemplos de Imagens](#exemplos-de-imagens)
+6. [Licença](#licença)
 
 ## Requisitos
 
