@@ -18,6 +18,7 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
 [😺 Repositorio GIT azure-sdk-for-python com exemplos](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/vision/Azure.AI.Vision.ImageAnalysis/samples)
 
 
+
 ## Índice
 
 1. [Requisitos](#requisitos)
@@ -27,12 +28,14 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
 5. [Exemplos de Imagens](#exemplos-de-imagens)
 6. [Licença](#licença)
 
+
 ## Requisitos
 
 - Python 3.x
 - Conta no Azure com o serviço Vision habilitado  [Não tem? 👉 Crie aqui sua conta Gratuita](https://azure.microsoft.com/pt-pt/free/)
 - Chave de API (chave primária ou secundária)[Não tem? 👉 Veja aqui](https://learn.microsoft.com/pt-pt/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?tabs=visual-studio%2Cwindows&pivots=programming-language-python)
 - Endpoint do serviço Azure Vision [Não tem? 👉 Veja aqui](https://learn.microsoft.com/pt-pt/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?tabs=visual-studio%2Cwindows&pivots=programming-language-python)
+
 
 ## Instalação e Configuração
 
@@ -81,6 +84,9 @@ Este script Python exemplifica a utilização do serviço Azure Vision para anal
    - Clique em "OK" para fechar todas as janelas de configuração.
 
 
+⚠️ **Atenção**: Nunca exponha sua key ou endpoint diretamente no código ⚠️
+
+
 ## Como Usar
 
 Para usar o script, basta colocar as imagens que deseja analisar na pasta `inputs`. O script irá processar automaticamente as imagens e salvar os resultados em formato JSON na pasta `output`. Certifique-se de que as imagens tenham nomes que correspondam aos prefixos necessários para ativar as diferentes funcionalidades de análise.
@@ -90,6 +96,7 @@ Execute o script com o seguinte comando:
 ```bash
 python azure_vision_image_analysis.py
 ```
+
 
 ## Funcionalidades
 
@@ -117,6 +124,7 @@ Segue a lista completa abaixo para auxiliar no uso das demais funcionalidades
 
 [Dados tirados da documentação da API de Análise de Imagens 4.0](https://learn.microsoft.com/pt-br/dotnet/api/azure.ai.vision.imageanalysis.visualfeatures?view=azure-dotnet-preview)
 
+
 ## Exemplos de Imagens
 
 > Certifique-se de que as imagens na pasta `inputs` tenham nomes que correspondam aos prefixos mencionados acima para ativar as funcionalidades desejadas de análise.
@@ -124,6 +132,7 @@ Segue a lista completa abaixo para auxiliar no uso das demais funcionalidades
 | analysis_store-camera-1.jpg | ocr_advert.jpg | people_store-camera-2.jpg |
 |---|---|---|
 | <img src="inputs/analysis_store-camera-1.jpg" alt="analysis_store-camera-1" width="150"/>| <img src="inputs/ocr_advert.jpg" alt="ocr_advert" width="150"/> | <img src="inputs/people_store-camera-2.jpg" alt="people_store-camera-2" width="150"/> |
+
 
 ## Licença
 
