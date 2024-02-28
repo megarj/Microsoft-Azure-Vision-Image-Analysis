@@ -151,3 +151,7 @@ Segue a lista completa abaixo para auxiliar no uso das demais funcionalidades
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+Gostou, achou útil? Considere dar uma estrela 😉
