@@ -145,6 +145,7 @@ Segue a lista completa abaixo para auxiliar no uso das demais funcionalidades
 | analysis_store-camera-1.jpg | ocr_advert.jpg | people_store-camera-2.jpg |
 |---|---|---|
 | <img src="inputs/analysis_store-camera-1.jpg" alt="analysis_store-camera-1" width="150"/>| <img src="inputs/ocr_advert.jpg" alt="ocr_advert" width="150"/> | <img src="inputs/people_store-camera-2.jpg" alt="people_store-camera-2" width="150"/> |
+| <img src="output/analysis_store-camera-1.jpg" alt="analysis_store-camera-1" width="150"/>| <img src="output/ocr_advert.jpg" alt="ocr_advert" width="150"/> | <img src="output/people_store-camera-2.jpg" alt="people_store-camera-2" width="150"/> |
 
 
 ## Licença
