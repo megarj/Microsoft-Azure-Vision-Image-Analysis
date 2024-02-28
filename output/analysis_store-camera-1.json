@@ -14,7 +14,7 @@
             },
             {
                 "text": "a woman smiling while holding a phone",
-                "confidence": 0.7425119280815125,
+                "confidence": 0.7423653602600098,
                 "boundingBox": {
                     "x": 212,
                     "y": 47,
@@ -34,7 +34,7 @@
             },
             {
                 "text": "a woman wearing a purple hat",
-                "confidence": 0.7497859001159668,
+                "confidence": 0.7497276663780212,
                 "boundingBox": {
                     "x": 467,
                     "y": 311,
@@ -44,7 +44,7 @@
             },
             {
                 "text": "a woman holding a cell phone to a girl in a store",
-                "confidence": 0.7348207831382751,
+                "confidence": 0.7342844009399414,
                 "boundingBox": {
                     "x": 0,
                     "y": 0,
@@ -84,7 +84,7 @@
             },
             {
                 "text": "a row of jars on a shelf",
-                "confidence": 0.7118486166000366,
+                "confidence": 0.711879312992096,
                 "boundingBox": {
                     "x": 0,
                     "y": 301,

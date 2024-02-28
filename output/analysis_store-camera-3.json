@@ -23,13 +23,13 @@
                 }
             },
             {
-                "text": "a shopping cart full of vegetables",
-                "confidence": 0.7764388918876648,
+                "text": "a person holding a shopping cart full of vegetables",
+                "confidence": 0.790708065032959,
                 "boundingBox": {
                     "x": 157,
                     "y": 470,
                     "w": 463,
-                    "h": 207
+                    "h": 206
                 }
             },
             {
@@ -44,7 +44,7 @@
             },
             {
                 "text": "a close-up of a woman",
-                "confidence": 0.9018575549125671,
+                "confidence": 0.9016886949539185,
                 "boundingBox": {
                     "x": 335,
                     "y": 145,
@@ -94,7 +94,7 @@
             },
             {
                 "text": "a close up of a vegetable",
-                "confidence": 0.7347301840782166,
+                "confidence": 0.7348242998123169,
                 "boundingBox": {
                     "x": 360,
                     "y": 566,

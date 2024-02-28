@@ -3,7 +3,7 @@
 ---
 # Azure Vision Image Analysis
 
-Este script Python exemplifica a utilização do serviço Azure Vision para analisar imagens em uma pasta de entrada e salvar os resultados em formato JSON em uma pasta de saída.
+Este script Python exemplifica a utilização do serviço Azure Vision para analisar, rotular e identificar elementos visuais nas imagens em uma pasta de entrada e salvar os resultados em uma pasta de saída.
 
 ⚠️ **Atenção**: Ao final dos seus testes não  se esqueça de apagar os recursos ⚠️
 

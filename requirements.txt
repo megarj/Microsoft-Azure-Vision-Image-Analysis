@@ -1,3 +1,4 @@
 azure-ai-vision-imageanalysis==1.0.0b2
 azure-core==1.30.0
-    
+matplotlib==3.8.3
+numpy==1.26.4    

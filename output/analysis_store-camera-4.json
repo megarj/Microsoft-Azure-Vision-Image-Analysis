@@ -4,7 +4,7 @@
         "values": [
             {
                 "text": "a man and woman in a grocery store",
-                "confidence": 0.8689822554588318,
+                "confidence": 0.8689022660255432,
                 "boundingBox": {
                     "x": 0,
                     "y": 0,
@@ -24,7 +24,7 @@
             },
             {
                 "text": "a woman holding a phone",
-                "confidence": 0.7215256690979004,
+                "confidence": 0.7214131355285645,
                 "boundingBox": {
                     "x": 576,
                     "y": 40,
@@ -34,7 +34,7 @@
             },
             {
                 "text": "a girl in a purple hat",
-                "confidence": 0.704962432384491,
+                "confidence": 0.7051916122436523,
                 "boundingBox": {
                     "x": 823,
                     "y": 224,
@@ -44,7 +44,7 @@
             },
             {
                 "text": "a man and woman standing in a grocery store",
-                "confidence": 0.8474443554878235,
+                "confidence": 0.847222089767456,
                 "boundingBox": {
                     "x": 0,
                     "y": 0,
@@ -54,7 +54,7 @@
             },
             {
                 "text": "a person holding a phone in front of a shelf of avocados",
-                "confidence": 0.7467315793037415,
+                "confidence": 0.7461400032043457,
                 "boundingBox": {
                     "x": 0,
                     "y": 357,
@@ -64,7 +64,7 @@
             },
             {
                 "text": "a man with long hair smiling",
-                "confidence": 0.7155494689941406,
+                "confidence": 0.7153390049934387,
                 "boundingBox": {
                     "x": 193,
                     "y": 82,
@@ -74,7 +74,7 @@
             },
             {
                 "text": "a hand holding a bunch of garlic",
-                "confidence": 0.735765278339386,
+                "confidence": 0.7361760139465332,
                 "boundingBox": {
                     "x": 427,
                     "y": 220,
@@ -94,11 +94,11 @@
             },
             {
                 "text": "a close-up of a woman holding a phone",
-                "confidence": 0.8260324597358704,
+                "confidence": 0.8287020921707153,
                 "boundingBox": {
                     "x": 600,
                     "y": 193,
-                    "w": 156,
+                    "w": 155,
                     "h": 270
                 }
             }

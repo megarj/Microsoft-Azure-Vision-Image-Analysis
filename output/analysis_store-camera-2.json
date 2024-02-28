@@ -14,7 +14,7 @@
             },
             {
                 "text": "a woman looking at a phone",
-                "confidence": 0.74336838722229,
+                "confidence": 0.7435828447341919,
                 "boundingBox": {
                     "x": 291,
                     "y": 74,
@@ -34,7 +34,7 @@
             },
             {
                 "text": "a woman holding a phone while shopping in a grocery store",
-                "confidence": 0.7391956448554993,
+                "confidence": 0.7394653558731079,
                 "boundingBox": {
                     "x": 0,
                     "y": 0,
@@ -44,7 +44,7 @@
             },
             {
                 "text": "a blurry shot of a store shelf",
-                "confidence": 0.6598802208900452,
+                "confidence": 0.6602696180343628,
                 "boundingBox": {
                     "x": 2,
                     "y": 130,
@@ -54,7 +54,7 @@
             },
             {
                 "text": "a close-up of a shelf with bottles",
-                "confidence": 0.7081050276756287,
+                "confidence": 0.7088043689727783,
                 "boundingBox": {
                     "x": 786,
                     "y": 0,
@@ -64,7 +64,7 @@
             },
             {
                 "text": "a woman looking down to side",
-                "confidence": 0.6623601913452148,
+                "confidence": 0.6622502207756042,
                 "boundingBox": {
                     "x": 363,
                     "y": 87,
@@ -84,7 +84,7 @@
             },
             {
                 "text": "a woman looking down at something",
-                "confidence": 0.7356793880462646,
+                "confidence": 0.7348974943161011,
                 "boundingBox": {
                     "x": 320,
                     "y": 85,
