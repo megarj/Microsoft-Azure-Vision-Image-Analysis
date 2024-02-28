@@ -155,3 +155,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ---
 
 Gostou, achou útil? Considere dar uma estrela 😉
+
+[![Estrelas](https://img.shields.io/github/stars/megarj/Microsoft-Azure-Vision-Image-Analysis.svg)](https://github.com/megarj/Microsoft-Azure-Vision-Image-Analysis)
